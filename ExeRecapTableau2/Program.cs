@@ -9,7 +9,7 @@ namespace ExeRecapTableau2
     class Program
     {
         /// <summary>
-        /// Supression d'une case d'un vecteur
+        /// Supression d'une case d'un vecteur 
         /// </summary>
         /// <param name="vec">vecteur</param>
         /// <param name="valeur">valeur à supprimer du vecteur</param>
